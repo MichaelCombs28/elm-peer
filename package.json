@@ -1,0 +1,13 @@
+{
+  "name": "elm-peer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Combs <michael.combs28@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "peerjs": "^1.4.7"
+  },
+  "dependencies": {
+    "nanoid": "^4.0.0"
+  }
+}
